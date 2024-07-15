@@ -51,4 +51,10 @@ Link: https://www.smashingmagazine.com/2019/06/bringing-healthy-code-review-mind
 
 Free online resource on design, rendering, and performance patterns for building powerful web apps with vanilla JavaScript or modern frameworks.
 
+# Front=End Engineer YouTube channel
+
+YouTube channel highlighting the frontend design systems of major applications such as Google Calendar, Google Sheets, Notion, Facebook News, etc.
+
+Link: https://www.youtube.com/@FrontEndEngineer
+
 Link: https://www.patterns.dev/

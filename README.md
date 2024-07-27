@@ -57,4 +57,22 @@ Link: https://www.patterns.dev/
 
 YouTube channel highlighting the frontend design systems of major applications such as Google Calendar, Google Sheets, Notion, Facebook News, etc.
 
+# Web Performance 101
+
+Introduction to modern web loading performance. Learn why performance is important, what performance optimizations exist, and which tools can help you understand if your app is performing well.
+
+Link: https://3perf.com/talks/web-perf-101/
+
 Link: https://www.youtube.com/@FrontEndEngineer
+
+# Short basics of caching
+
+Short article that talks about websites caching.
+
+Link: https://iamakulov.com/notes/caching/
+
+# Preload, prefetch and other <link> tags
+
+Article that discusses link tags.
+
+Link: https://3perf.com/blog/link-rels/

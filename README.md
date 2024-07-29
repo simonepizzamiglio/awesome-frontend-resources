@@ -75,4 +75,10 @@ Link: https://iamakulov.com/notes/caching/
 
 Article that discusses link tags.
 
+# WebSockets vs Server-Sent-Events vs Long-Polling vs WebRTC vs WebTransport
+
+Comparison and recommendations for server-to-client communication technologies for real-time web applications, highlighting performance, benefits, limitations, and use cases for Long-Polling, WebSockets, Server-Sent Events, WebTransport, and WebRTC.
+
+Link: https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html
+
 Link: https://3perf.com/blog/link-rels/
